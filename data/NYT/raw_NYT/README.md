@@ -1,4 +1,4 @@
-Download CopyR's NYT data at https://drive.google.com/open?id=10f24s9gM7NdyO3z5OqQxJgYud4NnCJg3
+NYT raw data is downloaded from https://drive.google.com/open?id=10f24s9gM7NdyO3z5OqQxJgYud4NnCJg3, containing train.json, test.json, and valid.json 
 
 Run generate.py to convert the numerical mentions into string mentions. Move the converted files to NYT/
 
